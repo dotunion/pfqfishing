@@ -21,7 +21,7 @@ console.log("GM.getResourceUrl:", GM?.getResourceUrl);
         // configs you can adjust to your liking
 
         // leave "" blank to remove image
-        image: "https://i.postimg.cc/7ZfsQzV0/WOJAK-POINTING-MEN-meme-6.png",
+        image: "",
 
         // size of said image
         imageSize: 75,
@@ -30,10 +30,10 @@ console.log("GM.getResourceUrl:", GM?.getResourceUrl);
         rippleSprite: "https://i.postimg.cc/FKW7QT2h/ripples.png",
 
         // ripple sprite scale (1 for no scale)
-        scale: 1.25,
+        scale: 1,
 
         // brightness (1 for no brightness)
-        brightness: 1.5,
+        brightness: 1,
 
         // glow (true/false)
         glow: true,
@@ -42,7 +42,7 @@ console.log("GM.getResourceUrl:", GM?.getResourceUrl);
         pulse: true,
 
         // leave "" blank to disable sound
-        sound: "https://decomail.space/ripmygranny.mp3",
+        sound: "https://decomail.space/noot.mp3",
 
         // adjust volume
         volume: 0.7
