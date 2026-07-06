@@ -8,7 +8,7 @@
 ## how to install
 - you must have [tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) installed on your browser
 - create a new userscript in the tampermonkey dashboard (extension icon -> create a new script)
-- copy the userscript in this repo and replace it with the default template in a new userscript
+- copy the userscript in this repo and replace the default template in a new userscript with the userscript
 - ctrl + s to save, make sure you have it turned on while you're fishing
 
 ## how to customize
